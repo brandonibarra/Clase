@@ -1,0 +1,21 @@
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.exe.config
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.exe
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.pdb
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.csprojAssemblyReference.cache
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.exe
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.pdb
+D:\Users\jalbe\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.exe.config
+D:\Users\jalbe\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.exe
+D:\Users\jalbe\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.pdb
+D:\Users\jalbe\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.csprojAssemblyReference.cache
+D:\Users\jalbe\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.csproj.CoreCompileInputs.cache
+D:\Users\jalbe\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.exe
+D:\Users\jalbe\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.pdb
+C:\Users\Miguel Ibarra\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.exe.config
+C:\Users\Miguel Ibarra\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.exe
+C:\Users\Miguel Ibarra\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\bin\Debug\Clase Estudiante.pdb
+C:\Users\Miguel Ibarra\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.csprojAssemblyReference.cache
+C:\Users\Miguel Ibarra\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ibarra\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.exe
+C:\Users\Miguel Ibarra\Desktop\Clase_Estudiante\Clase Estudiante\Clase Estudiante\obj\Debug\Clase Estudiante.pdb
